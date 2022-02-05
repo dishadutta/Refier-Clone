@@ -28,8 +28,8 @@ export default class navbarm extends Component {
                             <Dropdown >
                                 <Dropdown.Toggle style={{background: '#000', border:'transparent'}} id="dropdown-basic"><span style={{textAlign:'center', width:'80px'}}>Register</span></Dropdown.Toggle>
                                 <Dropdown.Menu style={{textAlign:'center'}}>
-                                    <Dropdown.Item href='/register-student'>As a Student</Dropdown.Item>
-                                    <Dropdown.Item href='/register-enterprise'>As an Enterprise</Dropdown.Item>
+                                    <Dropdown.Item href='/Refier-Clone/register-student'>As a Student</Dropdown.Item>
+                                    <Dropdown.Item href='/Refier-Clone/register-enterprise'>As an Enterprise</Dropdown.Item>
                                 </Dropdown.Menu>
                             </Dropdown>
                         </div>

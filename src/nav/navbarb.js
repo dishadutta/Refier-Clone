@@ -9,7 +9,7 @@ class Navbarb extends Component {
     <div>
     <nav className="navbar navbar-expand-lg navbar-light bg-light" style={{paddingTop:'20px', paddingBottom:'20px', height:'80px'}}>
     <div className="container-fluid container">
-        <a className="navbar-brand" href="#" style={{color:'#558c89', fontSize:'40px', fontWeight:'bold'}}>ReFier</a>
+        <a className="navbar-brand" href="/Refier-Clone" style={{color:'#558c89', fontSize:'40px', fontWeight:'bold'}}>ReFier</a>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span className="navbar-toggler-icon"></span>
         </button>
@@ -30,7 +30,7 @@ class Navbarb extends Component {
             </Dropdown.Menu>
             </Dropdown>
             <span className="nav-item">
-            <a className="nav-link active" aria-current="page" href='/jobs'><span style={{color:'black', fontWeight:'bold'}}>Jobs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></a>
+            <a className="nav-link active" aria-current="page" href='/Refier-Clone/jobs'><span style={{color:'black', fontWeight:'bold'}}>Jobs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></a>
             </span>
             
             {/* <span style={{}} className="nav-item">
@@ -47,8 +47,8 @@ class Navbarb extends Component {
             <Dropdown >
             <Dropdown.Toggle style={{background: '#000', border:'transparent'}} id="dropdown-basic"><span style={{padding:'0 20px 0 20px'}}>Register</span></Dropdown.Toggle>
             <Dropdown.Menu style={{textAlign:'center'}}>
-                <Dropdown.Item href='/register-student'>As a Student</Dropdown.Item>
-                <Dropdown.Item href='/register-enterprise'>As an Enterprise</Dropdown.Item>
+                <Dropdown.Item href='/Refier-Clone/register-student'>As a Student</Dropdown.Item>
+                <Dropdown.Item href='/Refier-Clone/register-enterprise'>As an Enterprise</Dropdown.Item>
             </Dropdown.Menu>
             </Dropdown>
         </form>
