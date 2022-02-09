@@ -3,6 +3,7 @@ import Multiselect from 'multiselect-react-dropdown';
 import Switch from "react-switch";
 // import Slider from 'react-button-slider'
 import Slider from '@mui/material/Slider';
+import New from './new';
 // or
 // import { Slider } from '@mui/material';
 
@@ -33,7 +34,9 @@ class Filter extends Component {
     // }
 
     return (
-    <div style={{color:'black', fontWeight: '500'}}>
+      <div style={{backgroundColor:'#e1eded'}}>
+    <div style={{color:'black', fontWeight: '500', backgroundColor:'#fff'}}>
+        {/* <New/> */}
         <span><span class="inline-icon material-icons">sort</span>&nbsp;Filters</span><br/>
         <br/><span>Category</span>
         <Multiselect
@@ -77,6 +80,7 @@ class Filter extends Component {
             style={{color:'teal'}}
         />
     </div> 
+    </div>
     </div>
     </div>
     );

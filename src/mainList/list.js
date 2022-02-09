@@ -1,7 +1,7 @@
 import { React, useState } from 'react'
 import data from "./ListData.json"
 
-function Jobs(props) {
+function List(props) {
     const filteredData = data.filter((el) => {
         if (props.input === '') {
             return el;
@@ -33,4 +33,4 @@ function Jobs(props) {
     )
 }
 
-export default Jobs
+export default List

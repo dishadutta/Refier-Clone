@@ -1,0 +1,732 @@
+[
+  {
+      "id": 11,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:18 p.m.",
+      "name": "B.Tech. (Bachelor of Technology)",
+      "slug": "bachelor-of-technology",
+      "kind": "Bachelor",
+      "is_active": true,
+      "degree_kind": 2
+  },
+  {
+      "id": 12,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:18 p.m.",
+      "name": "M.Tech. (Master of Technology)",
+      "slug": "master-of-technology",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 13,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:18 p.m.",
+      "name": "B.Arch. (Bachelor of Architecture)",
+      "slug": "bachelor-of-architecture",
+      "kind": "Bachelor",
+      "is_active": true,
+      "degree_kind": 2
+  },
+  {
+      "id": 14,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:18 p.m.",
+      "name": "Ph.D. (Doctor of Philosophy)",
+      "slug": "doctor-of-philosophy",
+      "kind": "Ph.D.",
+      "is_active": true,
+      "degree_kind": 3
+  },
+  {
+      "id": 15,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:18 p.m.",
+      "name": "M.Arch. (Master of Architecture)",
+      "slug": "master-of-architecture",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 16,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:18 p.m.",
+      "name": "M.Plan. (Master of Planning)",
+      "slug": "master-of-planning",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 17,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:18 p.m.",
+      "name": "B.Plan. (Bachelor of Planning)",
+      "slug": "bachelor-of-planning",
+      "kind": "Bachelor",
+      "is_active": true,
+      "degree_kind": 2
+  },
+  {
+      "id": 18,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:18 p.m.",
+      "name": "B.Com. (Bachelor of Commerce)",
+      "slug": "bachelor-of-commerce",
+      "kind": "Bachelor",
+      "is_active": true,
+      "degree_kind": 2
+  },
+  {
+      "id": 19,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:18 p.m.",
+      "name": "M.Com. (Master of Commerce)",
+      "slug": "master-of-commerce",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 20,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:18 p.m.",
+      "name": "B.Voc. (Bachelor of Vocation)",
+      "slug": "bachelor-of-vocation",
+      "kind": "Bachelor",
+      "is_active": true,
+      "degree_kind": 2
+  },
+  {
+      "id": 21,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:18 p.m.",
+      "name": "M.S. (Master of Surgery)",
+      "slug": "master-of-surgery",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 22,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:18 p.m.",
+      "name": "M.Phil. (Master of Philosophy)",
+      "slug": "master-of-philosophy",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 23,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:17 p.m.",
+      "name": "M.B.A. (Master of Business Administration)",
+      "slug": "master-of-business-administration",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 24,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:17 p.m.",
+      "name": "B.Sc. (Bachelor of Science)",
+      "slug": "bachelor-of-science",
+      "kind": "Bachelor",
+      "is_active": true,
+      "degree_kind": 2
+  },
+  {
+      "id": 25,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:17 p.m.",
+      "name": "M.Ed. (Master of Education)",
+      "slug": "master-of-education",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 26,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:17 p.m.",
+      "name": "B.B.A. (Bachelor of Business Administration)",
+      "slug": "bachelor-of-business-administration",
+      "kind": "Bachelor",
+      "is_active": true,
+      "degree_kind": 2
+  },
+  {
+      "id": 27,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:17 p.m.",
+      "name": "B.F.Tech. (Bachelor of Fashion Technology)",
+      "slug": "bachelor-of-fashion-technology",
+      "kind": "Bachelor",
+      "is_active": true,
+      "degree_kind": 2
+  },
+  {
+      "id": 28,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:17 p.m.",
+      "name": "M.S. (Master of Science)",
+      "slug": "master-of-science-ms",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 29,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:17 p.m.",
+      "name": "M.Des. (Master of Design)",
+      "slug": "master-of-design",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 30,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:17 p.m.",
+      "name": "B.F.Sc. (Bachelor of Fishery Science)",
+      "slug": "bachelor-of-fishery-science",
+      "kind": "Bachelor",
+      "is_active": true,
+      "degree_kind": 2
+  },
+  {
+      "id": 31,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:17 p.m.",
+      "name": "M.C.A. (Master of Computer Applications)",
+      "slug": "master-of-computer-applications",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 32,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:17 p.m.",
+      "name": "B.H.M. (Bachelor of Hotel Management)",
+      "slug": "bachelor-of-hotel-management",
+      "kind": "Bachelor",
+      "is_active": true,
+      "degree_kind": 2
+  },
+  {
+      "id": 33,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:17 p.m.",
+      "name": "B.Des. (Bachelor of Design)",
+      "slug": "bachelor-of-design",
+      "kind": "Bachelor",
+      "is_active": true,
+      "degree_kind": 2
+  },
+  {
+      "id": 34,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:17 p.m.",
+      "name": "B.Text. (Bachelor of Textile)",
+      "slug": "bachelor-of-textile",
+      "kind": "Bachelor",
+      "is_active": true,
+      "degree_kind": 2
+  },
+  {
+      "id": 35,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:17 p.m.",
+      "name": "M.Optom. (Master of Optometry)",
+      "slug": "master-of-optometry",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 36,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:17 p.m.",
+      "name": "M.P.H. (Master of Public Health)",
+      "slug": "master-of-public-health",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 37,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:16 p.m.",
+      "name": "M.Voc. (Master of Vocation)",
+      "slug": "master-of-vocation",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 38,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:16 p.m.",
+      "name": "M.H.R.D.M. (Master in Human Resources Development Management)",
+      "slug": "master-in-human-resources-development-management",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 39,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:16 p.m.",
+      "name": "B.Pharm. (Bachelor of Pharmacy)",
+      "slug": "bachelor-of-pharmacy",
+      "kind": "Bachelor",
+      "is_active": true,
+      "degree_kind": 2
+  },
+  {
+      "id": 40,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:16 p.m.",
+      "name": "M.Ch. (Master of Chirurgiae)",
+      "slug": "master-of-chirurgiae",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 41,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:16 p.m.",
+      "name": "B.B.I. (Bachelor of Banking and Insurance)",
+      "slug": "bachelor-of-banking-and-insurance",
+      "kind": "Bachelor",
+      "is_active": true,
+      "degree_kind": 2
+  },
+  {
+      "id": 42,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:16 p.m.",
+      "name": "M.Sc. (Master of Science)",
+      "slug": "master-of-science",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 43,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:16 p.m.",
+      "name": "M.Text. (Master of Textile)",
+      "slug": "master-of-textile",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 44,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:16 p.m.",
+      "name": "Diploma",
+      "slug": "diploma",
+      "kind": "Diploma",
+      "is_active": true,
+      "degree_kind": 8
+  },
+  {
+      "id": 45,
+      "created_at": "March 16, 2021, 9:37 p.m.",
+      "updated_at": "Oct. 22, 2021, 3:01 p.m.",
+      "name": "PGDip (Post Graduate Diploma)",
+      "slug": "post-graduate-diploma",
+      "kind": "Diploma",
+      "is_active": true,
+      "degree_kind": 8
+  },
+  {
+      "id": 46,
+      "created_at": "March 19, 2021, 4:28 p.m.",
+      "updated_at": "Oct. 4, 2021, 5:13 p.m.",
+      "name": "M.A (Master of Arts)",
+      "slug": "m-master-arts-master",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 47,
+      "created_at": "March 22, 2021, 1:32 p.m.",
+      "updated_at": "Oct. 22, 2021, 2:51 p.m.",
+      "name": "B.A (Bachelor of Arts)",
+      "slug": "bbachelor-arts",
+      "kind": "Bachelor",
+      "is_active": true,
+      "degree_kind": 2
+  },
+  {
+      "id": 48,
+      "created_at": "March 22, 2021, 1:36 p.m.",
+      "updated_at": "Oct. 22, 2021, 2:51 p.m.",
+      "name": "LLB (Bachelor of Law)",
+      "slug": "llbbachelor-law",
+      "kind": "Bachelor",
+      "is_active": true,
+      "degree_kind": 2
+  },
+  {
+      "id": 49,
+      "created_at": "March 31, 2021, 12:12 p.m.",
+      "updated_at": "March 31, 2021, 12:12 p.m.",
+      "name": "High/Secondary School",
+      "slug": "highsecondary-school",
+      "kind": "High School",
+      "is_active": true,
+      "degree_kind": 4
+  },
+  {
+      "id": 50,
+      "created_at": "April 16, 2021, 9:49 p.m.",
+      "updated_at": "Oct. 22, 2021, 2:51 p.m.",
+      "name": "LLM (Master of Laws)",
+      "slug": "llmmaster-laws",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 51,
+      "created_at": "April 28, 2021, 11:05 p.m.",
+      "updated_at": "April 28, 2021, 11:05 p.m.",
+      "name": "M.E. Master of Engineering",
+      "slug": "me-master-engineering",
+      "kind": "Masters",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 52,
+      "created_at": "April 28, 2021, 11:08 p.m.",
+      "updated_at": "Sept. 14, 2021, 5:53 p.m.",
+      "name": "B.E. (Bachelor of Engineering)",
+      "slug": "be-bachelor-engineering",
+      "kind": "Bachelor",
+      "is_active": true,
+      "degree_kind": 2
+  },
+  {
+      "id": 53,
+      "created_at": "April 28, 2021, 11:15 p.m.",
+      "updated_at": "Oct. 22, 2021, 2:51 p.m.",
+      "name": "MD (Doctor of Medicine)",
+      "slug": "mddoctor-medicine",
+      "kind": "Masters",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 54,
+      "created_at": "May 3, 2021, 8:38 p.m.",
+      "updated_at": "Oct. 22, 2021, 2:56 p.m.",
+      "name": "M.Pharm (Master of Pharmacy)",
+      "slug": "mpharma",
+      "kind": "pharma",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 55,
+      "created_at": "May 3, 2021, 9:28 p.m.",
+      "updated_at": "May 3, 2021, 9:28 p.m.",
+      "name": "Students of Class 1 to 10",
+      "slug": "students-class-1-10",
+      "kind": "School",
+      "is_active": true,
+      "degree_kind": 4
+  },
+  {
+      "id": 56,
+      "created_at": "Sept. 28, 2021, 2:20 a.m.",
+      "updated_at": "Oct. 22, 2021, 3:06 p.m.",
+      "name": "MBio (Master of Biology)",
+      "slug": "master-biology",
+      "kind": "Masters",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 57,
+      "created_at": "Sept. 28, 2021, 2:21 p.m.",
+      "updated_at": "Oct. 22, 2021, 3:06 p.m.",
+      "name": "MAcc (Master of Accounting)",
+      "slug": "master-accounting",
+      "kind": "Masters",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 58,
+      "created_at": "Sept. 28, 2021, 4:51 p.m.",
+      "updated_at": "Sept. 28, 2021, 4:51 p.m.",
+      "name": "M.RES (Master of Research)",
+      "slug": "mres-master-research",
+      "kind": "Masters",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 59,
+      "created_at": "Oct. 1, 2021, 7:09 p.m.",
+      "updated_at": "Oct. 1, 2021, 7:09 p.m.",
+      "name": "MBChB (Bachelor of Medicine and Bachelor of Surgery degrees)",
+      "slug": "mbchb-bachelor-medicine-and-bachelor-surgery-degrees",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 60,
+      "created_at": "Oct. 1, 2021, 7:22 p.m.",
+      "updated_at": "Oct. 22, 2021, 2:51 p.m.",
+      "name": "M.B.B.S (Bachelor of medicine, bachelor of surgery)",
+      "slug": "mbbsbachelor-medicine-bachelor-surgery",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 61,
+      "created_at": "Oct. 1, 2021, 7:45 p.m.",
+      "updated_at": "Oct. 1, 2021, 7:45 p.m.",
+      "name": "BAcc (Bachelor of Accounting)",
+      "slug": "bacc-bachelor-accounting",
+      "kind": "bachelors",
+      "is_active": true,
+      "degree_kind": 2
+  },
+  {
+      "id": 62,
+      "created_at": "Oct. 7, 2021, 5:06 p.m.",
+      "updated_at": "Oct. 22, 2021, 3:07 p.m.",
+      "name": "MLitt (Master of Letters)",
+      "slug": "master-letters",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 63,
+      "created_at": "Oct. 7, 2021, 5:13 p.m.",
+      "updated_at": "Oct. 22, 2021, 3:04 p.m.",
+      "name": "BMus (Bachelor of Music)",
+      "slug": "bachelor-music",
+      "kind": "bachelors",
+      "is_active": true,
+      "degree_kind": 2
+  },
+  {
+      "id": 64,
+      "created_at": "Oct. 8, 2021, 1:56 p.m.",
+      "updated_at": "Oct. 8, 2021, 1:56 p.m.",
+      "name": "BNurs (bachelor in Nursing)",
+      "slug": "bnurs-bachelor-nursing",
+      "kind": "bachelors",
+      "is_active": true,
+      "degree_kind": 2
+  },
+  {
+      "id": 65,
+      "created_at": "Oct. 22, 2021, 2:48 p.m.",
+      "updated_at": "Oct. 22, 2021, 2:50 p.m.",
+      "name": "MSt (Master of Studies)",
+      "slug": "mstmaster-studies",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 66,
+      "created_at": "Oct. 22, 2021, 3:05 p.m.",
+      "updated_at": "Oct. 22, 2021, 3:05 p.m.",
+      "name": "MMus (Master of Music)",
+      "slug": "mmus-master-music",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 67,
+      "created_at": "Oct. 22, 2021, 3:25 p.m.",
+      "updated_at": "Oct. 22, 2021, 3:36 p.m.",
+      "name": "BASS (Bachelor Social Science)",
+      "slug": "bass-bachelor-social-sciences",
+      "kind": "bachelors",
+      "is_active": true,
+      "degree_kind": 2
+  },
+  {
+      "id": 68,
+      "created_at": "Oct. 22, 2021, 6:47 p.m.",
+      "updated_at": "Oct. 22, 2021, 6:47 p.m.",
+      "name": "BCL (Bachelor of Civil Law)",
+      "slug": "bcl-bachelor-civil-law",
+      "kind": "bachelors",
+      "is_active": true,
+      "degree_kind": 2
+  },
+  {
+      "id": 69,
+      "created_at": "Oct. 22, 2021, 6:48 p.m.",
+      "updated_at": "Oct. 22, 2021, 6:48 p.m.",
+      "name": "MCL (Masters in Corporate Law)",
+      "slug": "mcl-masters-corporate-law",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 70,
+      "created_at": "Oct. 25, 2021, 2:58 p.m.",
+      "updated_at": "Oct. 25, 2021, 2:58 p.m.",
+      "name": "BDS (Bachelor of Dental Surgery)",
+      "slug": "bds-bachelor-dental-surgery",
+      "kind": "bachelors",
+      "is_active": true,
+      "degree_kind": 2
+  },
+  {
+      "id": 71,
+      "created_at": "Oct. 25, 2021, 3:02 p.m.",
+      "updated_at": "Oct. 25, 2021, 3:02 p.m.",
+      "name": "MPA (Master of Public Administration)",
+      "slug": "mpa-master-public-administration",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 72,
+      "created_at": "Oct. 25, 2021, 3:13 p.m.",
+      "updated_at": "Oct. 25, 2021, 3:13 p.m.",
+      "name": "(MLitt) Master of Letters",
+      "slug": "mlitt-master-letters",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 73,
+      "created_at": "Jan. 20, 2022, 3:57 p.m.",
+      "updated_at": "Jan. 20, 2022, 3:57 p.m.",
+      "name": "MMedSci (Masters in Medical Sciences)",
+      "slug": "mmedsci-masters-medical-sciences",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 74,
+      "created_at": "Jan. 20, 2022, 4:03 p.m.",
+      "updated_at": "Jan. 20, 2022, 4:03 p.m.",
+      "name": "MMet (Master of Meteorology)",
+      "slug": "mmet-master-meteorology",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 76,
+      "created_at": "Jan. 20, 2022, 4:36 p.m.",
+      "updated_at": "Jan. 20, 2022, 4:36 p.m.",
+      "name": "DClinDentv(Doctor of Clinical Dentistry)",
+      "slug": "dclindentvdoctor-clinical-dentistry",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 77,
+      "created_at": "Jan. 20, 2022, 4:46 p.m.",
+      "updated_at": "Jan. 20, 2022, 4:46 p.m.",
+      "name": "MMath (Master of Mathematics)",
+      "slug": "mmath-master-mathematics",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 78,
+      "created_at": "Jan. 20, 2022, 4:47 p.m.",
+      "updated_at": "Jan. 20, 2022, 4:47 p.m.",
+      "name": "MBiolSci (Biological Sciences)",
+      "slug": "mbiolsci-biological-sciences",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 79,
+      "created_at": "Jan. 24, 2022, 5:50 p.m.",
+      "updated_at": "Jan. 24, 2022, 5:50 p.m.",
+      "name": "MProf (Master of Professional Studies)",
+      "slug": "mprof-master-professional-studies",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 80,
+      "created_at": "Jan. 28, 2022, 4 p.m.",
+      "updated_at": "Jan. 28, 2022, 4 p.m.",
+      "name": "B.Ed. (Bachelor of Education)",
+      "slug": "bed-bachelor-education",
+      "kind": "bachelors",
+      "is_active": true,
+      "degree_kind": 2
+  },
+  {
+      "id": 81,
+      "created_at": "Jan. 28, 2022, 4:19 p.m.",
+      "updated_at": "Jan. 28, 2022, 4:19 p.m.",
+      "name": "MPsy (Master of Psychology)",
+      "slug": "mpsy-master-psychology",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 82,
+      "created_at": "Feb. 2, 2022, 3:56 p.m.",
+      "updated_at": "Feb. 2, 2022, 3:56 p.m.",
+      "name": "BMedSci (Masters in Medical Sciences)",
+      "slug": "bmedsci-masters-medical-sciences",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 83,
+      "created_at": "Feb. 8, 2022, 1:02 p.m.",
+      "updated_at": "Feb. 8, 2022, 1:02 p.m.",
+      "name": "M.Bus (Master of Business)",
+      "slug": "mbus-master-business",
+      "kind": "Master",
+      "is_active": true,
+      "degree_kind": 1
+  },
+  {
+      "id": 84,
+      "created_at": "Feb. 8, 2022, 1:25 p.m.",
+      "updated_at": "Feb. 8, 2022, 1:25 p.m.",
+      "name": "FdSc (Foundation Degree in Science)",
+      "slug": "fdsc-foundation-degree-science",
+      "kind": "bachelors",
+      "is_active": true,
+      "degree_kind": 2
+  }
+]

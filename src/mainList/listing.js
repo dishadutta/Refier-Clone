@@ -4,6 +4,7 @@ import Filter from './filter';
 import Footer from './footer';
 import Jobs from './jobs';
 import {BrowserView, MobileView} from 'react-device-detect';
+import New from './new';
 
 class Listing extends Component {
   render() {
@@ -12,12 +13,20 @@ class Listing extends Component {
       <BrowserView>
       <div style={{backgroundColor:'#e1eded'}}>
       <div class="container px-4" style={{paddingTop:'70px'}}>
-        <div class="row gx-5">
+        {/* <div class="row gx-5">
             <div class="col-3">
               <div class="p-3 border bg-light" style={{borderRadius: '6px'}}><Filter/></div>
             </div>
             <div class="col-6">
               <div><Jobs/></div>
+            </div>
+            <div class="col-3">
+              <div class="p-3 border bg-light" style={{borderRadius: '6px'}}><Enquiry/></div>
+            </div>
+        </div> */}
+        <div class="row gx-5">
+            <div class="col-9">
+              <div class="p-3 border bg-light" style={{borderRadius: '6px'}}><New/></div>
             </div>
             <div class="col-3">
               <div class="p-3 border bg-light" style={{borderRadius: '6px'}}><Enquiry/></div>
