@@ -1,17 +1,16 @@
 {
   "files": {
     "main.css": "/Refier-Clone/static/css/main.5c93ff91.css",
-    "main.js": "/Refier-Clone/static/js/main.e09721d6.js",
+    "main.js": "/Refier-Clone/static/js/main.6f4249d2.js",
     "static/media/student_bg.png": "/Refier-Clone/static/media/student_bg.549d3dd80b17b9c8216d.png",
     "static/media/enterprise_bg.png": "/Refier-Clone/static/media/enterprise_bg.b50945f23e1a238a33ae.png",
-    "static/media/img_job.jpg": "/Refier-Clone/static/media/img_job.34b2791e8ff0f51da715.jpg",
     "static/media/logo.svg": "/Refier-Clone/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Refier-Clone/index.html",
     "main.5c93ff91.css.map": "/Refier-Clone/static/css/main.5c93ff91.css.map",
-    "main.e09721d6.js.map": "/Refier-Clone/static/js/main.e09721d6.js.map"
+    "main.6f4249d2.js.map": "/Refier-Clone/static/js/main.6f4249d2.js.map"
   },
   "entrypoints": [
     "static/css/main.5c93ff91.css",
-    "static/js/main.e09721d6.js"
+    "static/js/main.6f4249d2.js"
   ]
 }
